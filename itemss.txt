@@ -11,3 +11,6 @@ PANIPURI
 HEAALTH
 IDLY
 VADA
+dosa
+kalidosa
+ukma
